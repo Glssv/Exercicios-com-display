@@ -10,7 +10,7 @@ Este é um exercício que criei para minhas alunas de mentoria, com o objetivo d
 
 ## Interface do exercício
 
- [Clique aqui](./index.html) para visualizar 
+ [Clique aqui](https://exerciciodisplay.netlify.app/) para visualizar 
 
 ---
 
