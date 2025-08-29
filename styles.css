@@ -1,0 +1,54 @@
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background-color: #f7f7f7;
+    }
+
+    .card {
+      display: block;
+      width: 350px;
+      margin: 20px auto;
+      padding: 15px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background: white;
+    }
+
+    .perfil {
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+
+    .foto {
+      width: 70px;
+      height: 70px;
+      border-radius: 50%;
+      vertical-align: middle;
+    }
+
+    .nome {
+      display: inline-block;
+      margin-left: 10px;
+      font-weight: bold;
+    }
+
+    p {
+      padding: 2px 0;
+    }
+
+    .tags {
+      margin-top: 10px;
+    }
+
+    .tag {
+      display: inline;
+      background: #ffeeba;
+      padding: 2px 6px;
+      margin-right: 4px;
+      border-radius: 5px;
+    }
